@@ -1,0 +1,1 @@
+export { default as en_us } from "./en_us.json";
